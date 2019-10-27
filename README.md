@@ -6,3 +6,7 @@ The Curse of Red Skull is a multiplayer RPG game built on top of Unity 3D along 
 This is our first ever online hackathon. We worked as a team from different locations remotely. This was the biggest challenge that we faced because working remotely is a whole new different game. We also faced several issues throughout our journey for the past 36 hours but we finally succeded in completing the project right from scratch. We also had to work along with the COCOS-BCX and Matic teams to figure out the errors and issues during the integration.
 
 We integrated Matiic Network Payments in the game and also we integrated Cocos-BCX payment login abd payment mechanism into the game.
+
+#Link for the Cocos demo: https://youtu.be/J-5B8JuPZpU
+
+#Link for the matic demo: https://drive.google.com/file/d/13Db5AuPqKaTCghSnFq7XhKPx56CC5ULw/view
