@@ -7,6 +7,6 @@ This is our first ever online hackathon. We worked as a team from different loca
 
 We integrated Matiic Network Payments in the game and also we integrated Cocos-BCX payment login abd payment mechanism into the game.
 
-#Link for the Cocos demo: https://youtu.be/J-5B8JuPZpU
+# Link for the Cocos demo: https://youtu.be/J-5B8JuPZpU
 
-#Link for the matic demo: https://drive.google.com/file/d/13Db5AuPqKaTCghSnFq7XhKPx56CC5ULw/view
+# Link for the matic demo: https://drive.google.com/file/d/13Db5AuPqKaTCghSnFq7XhKPx56CC5ULw/view
