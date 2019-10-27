@@ -9,4 +9,4 @@ We integrated Matiic Network Payments in the game and also we integrated Cocos-B
 
 # Link for the Cocos-BCX demo: https://youtu.be/J-5B8JuPZpU
 
-# Link for the Matic demo: https://drive.google.com/file/d/13Db5AuPqKaTCghSnFq7XhKPx56CC5ULw/view
+# Link for the Matic demo: https://youtu.be/EI5ragjNkh4
